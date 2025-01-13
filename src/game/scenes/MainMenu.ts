@@ -18,7 +18,7 @@ export class MainMenu extends Scene
         // Add subheader
         this.add.image(512, 175, 'how-to-cook')
         // Add header
-        this.add.image(512, 300, 'sinigang')
+        this.add.image(512, 300, 'truffle pasta')
 
         // Add a button
         const startButton = this.add.image(512, 600, 'button-start').setInteractive();

@@ -13,135 +13,159 @@
     },
     {
         "step": 3,
-        "description": "Add the tomato in the pot.",
-        "answer": "card-tomato",
-        "cooktop": "pot-water-in"
+        "description": "Add salt to the pot.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 4,
-        "description": "Add the onion in the pot.",
-        "answer": "card-onion",
-        "cooktop": "pot-tomato-in"
+        "description": "Wait for water to boil.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 5,
-        "description": "Add the taro root in the pot.",
-        "answer": "card-taro",
-        "cooktop": "pot-tomato-onion-in"
+        "description": "Add the pasta in the pot.",
+        "answer": "",
+        "cooktop": ""
         
     },
     {
         "step": 6,
-        "description": "Add the meat in the pot.",
-        "answer": "card-meat",
-        "cooktop": "pot-taro-in"
+        "description": "Wait for pasta to cook.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 7,
-        "description": "Stir the contents of the pot.",
-        "answer": "card-stir",
-        "cooktop": "pot-meat-in"
+        "description": "While waiting for pasta to cook, take a sauce pan to the stove.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 8,
-        "description": "Cover.",
-        "answer": "card-cover",
-        "cooktop": "pot-meat-in"
+        "description": "Turn on the stove.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 9,
-        "description": "Wait.",
-        "answer": "card-wait",
-        "cooktop": "pot-covered"
+        "description": "Add chopped bacon.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 10,
-        "description": "Uncover the pot.",
-        "answer": "card-uncover",
-        "cooktop": "pot-covered"
+        "description": "Wait for bacon to cook.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 11,
-        "description": "Stir the contents of the pot.",
-        "answer": "card-stir",
-        "cooktop": "pot-meat-in-cooked"
+        "description": "Put away bacon.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 12,
-        "description": "Add the tamarind soup base mix.",
-        "answer": "card-soup-mix",
-        "cooktop": "pot-sinigang"
+        "description": "Add butter to the same saucepan.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 13,
-        "description": "Stir the contents of the pot.",
-        "answer": "card-stir",
-        "cooktop": "pot-sinigang"
+        "description": "Add minced garlic.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 14,
-        "description": "Cover.",
-        "answer": "card-cover",
-        "cooktop": "pot-sinigang"
+        "description": "Brown the garlic.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 15,
-        "description": "Wait.",
-        "answer": "card-wait",
-        "cooktop": "pot-covered"
+        "description": "Add heavy whipping or cooking cream.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 16,
-        "description": "Uncover the pot.",
-        "answer": "card-uncover",
-        "cooktop": "pot-covered"
+        "description": "Add a can of cream of mushroom soup.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 17,
-        "description": "Stir the contents of the pot.",
-        "answer": "card-stir",
-        "cooktop": "pot-sinigang"
+        "description": "Stir the contents of the saucepan.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 18,
-        "description": "Add the Ong Choy.",
-        "answer": "card-ong-choy",
-        "cooktop": "pot-sinigang"
+        "description": "Add truffle parmesan cheese.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 19,
-        "description": "Turn off the stove.",
-        "answer": "card-remove-fire",
-        "cooktop": "pot-sinigang-ong-choy"
+        "description": "Keep stirring.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 20,
-        "description": "Cover.",
-        "answer": "card-cover",
-        "cooktop": "pot-sinigang-ong-choy"
+        "description": "Add cooked bacon.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 21,
-        "description": "Wait.",
-        "answer": "card-wait",
-        "cooktop": "pot-covered"
+        "description": "Turn off the stove.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 22,
-        "description": "Uncover.",
-        "answer": "card-uncover",
-        "cooktop": "pot-covered"
+        "description": "Check the pasta boiling.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 23,
-        "description": "Stir the contents of the pot.",
-        "answer": "card-stir",
-        "cooktop": "pot-sinigang-ong-choy-cooked"
+        "description": "Wait until the pasta is fully cooked through.",
+        "answer": "",
+        "cooktop": ""
     },
     {
         "step": 24,
-        "description": "Congratulations! You completed the sinigang!",
+        "description": "Turn off the stove.",
         "answer": "",
-        "cooktop": "pot-sinigang-ong-choy-cooked"
+        "cooktop": ""
+    },
+    {
+        "step": 25,
+        "description": "Strain pasta with a colander.",
+        "answer": "",
+        "cooktop": ""
+    },
+    {
+        "step": 26,
+        "description": "Serve pasta on a plate.",
+        "answer": "",
+        "cooktop": ""
+    },
+    {
+        "step": 27,
+        "description": "Add sauce.",
+        "answer": "",
+        "cooktop": ""
+    },
+    {
+        "step": 28,
+        "description": "Add garnish.",
+        "answer": "",
+        "cooktop": ""
     }
 ]
